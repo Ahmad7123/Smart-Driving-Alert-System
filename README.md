@@ -404,7 +404,7 @@ See the **LICENSE** file for more details.
 
 # 👩‍💻 Author
 
-**Kanza**
+**Ahmad Nawaz**
 
 Electronics & Computing Engineering Student
 
